@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="StoreSystem2024.StoreSystem2024">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <Members>
+      <Field Name="AddButton" Hidden="true" />
+      <Field Name="addItemButton" Hidden="true" />
+      <Field Name="addItemCountNumericUpDown" Hidden="true" />
+      <Field Name="addItemNameTextBox" Hidden="true" />
+      <Field Name="addItemPriceNumericUpDown" Hidden="true" />
+      <Field Name="addItemTypeComboBox" Hidden="true" />
+      <Field Name="CartListBox" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="deleteButton" Hidden="true" />
+      <Field Name="deleteItemNumericUpdown" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="inventoryListBox" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="orderMoreButton" Hidden="true" />
+      <Field Name="PurchaseButton" Hidden="true" />
+      <Field Name="RemoveButton" Hidden="true" />
+      <Field Name="selectItemLabel" Hidden="true" />
+      <Field Name="StoreListBox" Hidden="true" />
+      <Field Name="tabControl1" Hidden="true" />
+      <Field Name="tabPage1" Hidden="true" />
+      <Field Name="tabPage2" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>BACAIAACACDAQNACABCAAAQCAEAAACSAQgAJgIADTJE=</HashCode>
+      <FileName>StoreSystem2024.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StoreSystem2024.StoreBackend">
+    <Position X="9.25" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="StoreSystem2024.StoreBackend.StoreItem">
+        <TypeIdentifier>
+          <NewMemberFileName>StoreBackend.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAABQACEAACAABAAIAAAAAAAIABECAAEAAA=</HashCode>
+      <FileName>StoreBackend.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="StoreSystem2024" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

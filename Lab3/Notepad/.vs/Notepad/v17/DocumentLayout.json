@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maroko\\Desktop\\Uni\\C#.net\\Lab3\\Notepad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C28795-3904-4AF7-8557-86EAD107E042}|Notepad.csproj|c:\\users\\maroko\\desktop\\uni\\c#.net\\lab3\\notepad\\notepadform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4C28795-3904-4AF7-8557-86EAD107E042}|Notepad.csproj|solutionrelative:notepadform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C28795-3904-4AF7-8557-86EAD107E042}|Notepad.csproj|C:\\Users\\Maroko\\Desktop\\Uni\\C#.net\\Lab3\\Notepad\\notepadform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4C28795-3904-4AF7-8557-86EAD107E042}|Notepad.csproj|solutionrelative:notepadform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C28795-3904-4AF7-8557-86EAD107E042}|Notepad.csproj|C:\\Users\\Maroko\\Desktop\\Uni\\C#.net\\Lab3\\Notepad\\notepadform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4C28795-3904-4AF7-8557-86EAD107E042}|Notepad.csproj|solutionrelative:notepadform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotepadForm.cs",
+              "DocumentMoniker": "C:\\Users\\Maroko\\Desktop\\Uni\\C#.net\\Lab3\\Notepad\\NotepadForm.cs",
+              "RelativeDocumentMoniker": "NotepadForm.cs",
+              "ToolTip": "C:\\Users\\Maroko\\Desktop\\Uni\\C#.net\\Lab3\\Notepad\\NotepadForm.cs",
+              "RelativeToolTip": "NotepadForm.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAwF0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T15:44:29.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotepadForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Maroko\\Desktop\\Uni\\C#.net\\Lab3\\Notepad\\NotepadForm.Designer.cs",
+              "RelativeDocumentMoniker": "NotepadForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Maroko\\Desktop\\Uni\\C#.net\\Lab3\\Notepad\\NotepadForm.Designer.cs",
+              "RelativeToolTip": "NotepadForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-03-04T15:44:28.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotepadForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Maroko\\Desktop\\Uni\\C#.net\\Lab3\\Notepad\\NotepadForm.cs",
+              "RelativeDocumentMoniker": "NotepadForm.cs",
+              "ToolTip": "C:\\Users\\Maroko\\Desktop\\C#.net\\Lab3\\Notepad\\NotepadForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\C#.net\\Lab3\\Notepad\\NotepadForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-04T15:44:29.225Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
